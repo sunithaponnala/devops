@@ -1,0 +1,3 @@
+this is samu
+we are using git bash
+on windows laptop
